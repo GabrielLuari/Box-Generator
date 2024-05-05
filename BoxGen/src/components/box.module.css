@@ -1,0 +1,24 @@
+.contanier{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contanier input{
+    background-color: rgb(231, 231, 231);
+    border-radius: 1%;
+    border: 1px solid  rgb(119, 119, 119);
+    height: 30px;
+    width: 20%;
+  }
+  
+  .contanierbutton{
+    height: 30px;
+    background-color: rgb(253, 243, 243);
+    border: 2px solid  rgb(253, 253, 253);
+    border-radius: 5px;
+    padding: 10 15px;
+    
+  }
